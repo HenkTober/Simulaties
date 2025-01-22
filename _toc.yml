@@ -4,5 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: tralie_phasoren
+- file: tralie_phasoren_met_code
+- file: tralie_phasoren_zonder_code
 
