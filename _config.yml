@@ -4,6 +4,7 @@
 title: Simulaties natuurkunde
 author: Henk Tober
 logo: logo.png
+copyright: ""
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
