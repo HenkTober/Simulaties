@@ -25,11 +25,14 @@ sphinx:
   config:
     html_js_files:
       - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+      - https://unpkg.com/thebe@latest/lib/index.js
 
     thebe_config:
-      use_thebe_lite: false     # <-- belangrijk!
+      use_thebe_lite: false
       binderhub_url: "https://mybinder.org"
       repository_url: "https://github.com/HenkTober/Simulaties"
       ref: "main"
-``
+      selector: ".thebe-cell"
+      codemirror_theme: "abcdef"
+
 
