@@ -4,7 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: tralie_phasoren_met_code
-- file: tralie_phasoren_parametercode
+- file: diffractie_tralie_phasoren_deelcode
+- file: diffractie_tralie_phasoren_helecode
 - file: reflectie_en_transmissie_start
 
